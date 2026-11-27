@@ -10,6 +10,8 @@ dist/
 .env
 .env.*
 !.env.example
+/data/
+/*_BLE*.csv
 results/figures/*
 !results/figures/.gitkeep
 results/tables/*

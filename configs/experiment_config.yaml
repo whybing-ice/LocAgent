@@ -1,6 +1,0 @@
-# Proposed parameters. A config loader is planned.
-seed: 42
-phone_count: 10
-trials_per_setting: 100
-noise_std_m: [0.1, 0.5, 1.0]
-outlier_fractions: [0.0, 0.1, 0.2]

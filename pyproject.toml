@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "locagent"
 version = "0.1.0"
-description = "Course project skeleton for 2D range-based localization"
+description = "2D BLE localization with adaptive observation windows and report screening"
 readme = "README.md"
 requires-python = ">=3.13,<3.14"
-dependencies = ["numpy", "scipy", "matplotlib"]
+dependencies = ["numpy", "scipy"]
 
 [dependency-groups]
 dev = ["pytest"]

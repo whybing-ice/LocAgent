@@ -1,0 +1,4 @@
+{
+  "motion_confirmations": 2,
+  "hypothesis": "Requiring two consecutive positive motion checks before switching to the 15-second window should filter single-check false switches and reduce moving CEP90 while preserving stationary CEP90 and solve rate."
+}

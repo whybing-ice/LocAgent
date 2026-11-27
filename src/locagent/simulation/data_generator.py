@@ -1,6 +1,4 @@
-"""TODO: Generate anchor positions and noisy range observations."""
-
-
+"""Generate noiseless ranges for two-dimensional localization."""
 
 import numpy as np
 from numpy.typing import ArrayLike, NDArray
