@@ -12,7 +12,4 @@ dist/
 !.env.example
 /data/
 /*_BLE*.csv
-results/figures/*
-!results/figures/.gitkeep
-results/tables/*
-!results/tables/.gitkeep
+/results/
