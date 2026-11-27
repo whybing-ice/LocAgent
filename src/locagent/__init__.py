@@ -1,0 +1,1 @@
+"""LocAgent course project."""
